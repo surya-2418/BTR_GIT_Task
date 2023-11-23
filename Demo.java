@@ -1,4 +1,4 @@
-interface Demo
+class Demo
 {
 	public abstract void test();
 	public static void main(String[] args) 
